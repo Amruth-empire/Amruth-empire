@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **amruthms09052005@gmail.com**
 
-- 📄 Know about my experiences [Resume / Portfolio](https://drive.google.com/file/d/1praUHn7ZD7OsrqvgYuhHBBc6jiMwe3mT/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
