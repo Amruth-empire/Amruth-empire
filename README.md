@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%26+React+Specialist;Backend+with+Node+%26+Express;Learning+TypeScript+%26+System+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=3000&deleteSpeed=30&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Learning+and+building+with+Next.js+and+React.js" />
 </p>
+
 
 
 # 💫 About Me:
