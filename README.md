@@ -1,3 +1,25 @@
+<h1 align="center">
+  Hi there 👋 <br/>
+  I am <span style="color:#60A5FA;">Amruth M S</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=24&
+  duration=3000&
+  pause=1000&
+  color=22C55E&
+  center=true&
+  vCenter=true&
+  width=700&
+  lines=Full+Stack+Developer;
+  Next.js+%26+React+Specialist;
+  Backend+with+Node+%26+Express;
+  Learning+TypeScript+%26+System+Design"
+  />
+</p>
+
 # 💫 About Me:
 🤝 I’m looking to collaborate on<br>Full-stack web apps, open-source projects, or hackathon ideas involving Next.js, React, or Express.<br><br>👐 I’m looking for help with<br>Server-side optimization, database performance, and authentication systems (JWT, OAuth).<br><br>🌱 I’m currently learning<br>Next.js (Full Stack), Node.js, Express, MongoDB, and TypeScript.<br><br>💬 Ask me about<br>Building modern web apps with Next.js, API development, database design and production deployment
 
